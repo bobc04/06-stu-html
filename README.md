@@ -27,11 +27,6 @@ For this project, a suite of tools was required:
 - Visual Studio Code: [Download here:](https://code.visualstudio.com/)
 - A good attitude: [Developer Mindset](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
 
-<hr>
-
-### Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
 <hr> 
 
 #### License
